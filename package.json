@@ -1,0 +1,14 @@
+{
+  "name": "open-all-browsers",
+  "version": "1.0.0",
+  "main": "lib/openBrowsers.js",
+  "bin": {
+    "oal": "./bin/oal.js"
+  },
+  "scripts": {
+    "start": "node bin/oal.js"
+  },
+  "author": "regepan",
+  "license": "ISC",
+  "description": ""
+}
