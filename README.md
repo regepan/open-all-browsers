@@ -4,7 +4,7 @@
 # Usage
 
 ```sh
-oal https://www.newsweek.com/
+oab https://www.newsweek.com/
 ```
 
 # Env
