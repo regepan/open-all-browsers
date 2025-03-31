@@ -8,7 +8,7 @@ npm i -g https://github.com/regepan/open-all-browsers.git
 ```
 
 # Usage
-- **O**pen **A**ll **B**rowsers
+- **O**pen **A**ll Browsers
 ```sh
 oa https://www.newsweek.com/
 ```
