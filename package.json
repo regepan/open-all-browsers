@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "lib/openBrowsers.js",
   "bin": {
-    "oab": "./bin/oab.js"
+    "oa": "./bin/oa.js"
   },
   "scripts": {
-    "start": "node bin/oab.js"
+    "start": "node bin/oa.js"
   },
   "author": "regepan",
   "license": "ISC",
